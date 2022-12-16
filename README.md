@@ -11,7 +11,7 @@ One of the main things to remember when building your model is that the metric y
 <br>
 You may choose instead to optimize your model to recall, precision, or F1 score depending on your specific use case. <br>
 
-## Notebooks included
+## Notebooks Included
 
 I. Setup & EDA <br>
 I.i. EDA - RFM Customer Segmentation <br>
