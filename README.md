@@ -41,7 +41,7 @@ VI. Multicollinearity Check and Model Building, Tuning and Evaluation <br>
 * [Specifying a Schema for a BigQuery Table Export](https://cloud.google.com/bigquery/docs/schemas)
 * [Vertex AI Jupyter Notebook Tutorials](https://cloud.google.com/vertex-ai/docs/tutorials/jupyter-notebooks)
 
-API and Other Documentation
+### API and Other Documentation
 * [Python Client for Google BigQuery](https://googleapis.dev/python/bigquery/latest/index.html)
 * [Imbalanced-learn (Python library for over or undersampling imbalanced datasets)](https://imbalanced-learn.org/stable/references/index.html#api)
 * [XGBoost Hyperparameters](https://xgboost.readthedocs.io/en/stable/parameter.html)
